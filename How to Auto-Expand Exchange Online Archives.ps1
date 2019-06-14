@@ -11,7 +11,8 @@ Set-OrganizationConfig -AutoExpandingArchive
 
 Get-OrganizationConfig | FL AutoExpandingArchiveEnabled
 
-Enable-Mailbox ahmet.d@linkshipping.com -AutoExpandingArchive
+Enable-Mailbox ahmet.d@l3inkshipping.com -AutoExpandingArchive
 
-Get-Mailbox ahmet.d@linkshipping.com | FL AutoExpandingArchiveEnabled 
+Get-Mailbox ahmet.d@l3ikshipping.com | FL AutoExpandingArchiveEnabled 
+
 
