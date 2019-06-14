@@ -16,3 +16,5 @@ Enable-Mailbox ahmet.d@l3inkshipping.com -AutoExpandingArchive
 Get-Mailbox ahmet.d@l3ikshipping.com | FL AutoExpandingArchiveEnabled 
 
 
+
+
